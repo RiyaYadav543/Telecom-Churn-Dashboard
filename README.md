@@ -18,3 +18,9 @@ This is an Excel-based dashboard that provides visual analysis and insights into
 - Download the `.xlsm` file
 - Enable macros when prompted
 - Use the filters to explore different customer segments
+
+### Female Customer Insights
+![Female Dashboard](female_dashboard.png)
+
+### Male Customer Insights
+![Male Dashboard](male_dashboard.png)
