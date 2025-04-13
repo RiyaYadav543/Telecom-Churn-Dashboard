@@ -20,7 +20,7 @@ This is an Excel-based dashboard that provides visual analysis and insights into
 - Use the filters to explore different customer segments
 
 ### Female Customer Insights
-![Female Dashboard](female_dashboard.png)
+![Female Dashboard](female.png)
 
 ### Male Customer Insights
-![Male Dashboard](male_dashboard.png)
+![Male Dashboard](male.png)
